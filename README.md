@@ -17,7 +17,7 @@ This dataset satisfies the assignment requirement of minimum 12 features and min
 ## GitHub Repository Link
 Replace this line after uploading the project folder to GitHub:
 
-`https://github.com/<your-github-user>/<your-repository-name>`
+`https://github.com/UmaAlebale/ML_Assignement2`
 
 ## Live Streamlit App Link
 Replace this line after deploying the repository on Streamlit Community Cloud:
