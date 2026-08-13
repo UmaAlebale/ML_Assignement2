@@ -22,7 +22,7 @@ Replace this line after uploading the project folder to GitHub:
 ## Live Streamlit App Link
 Replace this line after deploying the repository on Streamlit Community Cloud:
 
-`https://<your-app-name>.streamlit.app/`
+`https://mlassignement2.streamlit.app/`
 
 ## Models Used
 The following classification models were implemented on the same train-test split:
