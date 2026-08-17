@@ -84,7 +84,9 @@ project-folder/
     |-- naive_bayes.joblib
     |-- random_forest_ensemble.joblib
     |-- support_vector_machine.joblib
+|-- Images/
+    |-- BITSLabSnap.png
 ```
 
 ## BITS Virtual Lab Execution Screenshot
-Images/BITSLabSnap.png
+<img width="1912" height="712" alt="Image" src="https://github.com/user-attachments/assets/e8d2c5ac-e9bf-456e-ab76-8ec872f589f0" />
