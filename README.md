@@ -86,8 +86,6 @@ project-folder/
     |-- support_vector_machine.joblib
 ```
 
-## BITS Virtual Lab Screenshot
-
 ## BITS Virtual Lab Execution Screenshot
 
-Images/BITSLab%20Snap.png
+![BITS Lab Snapshot](Images/BITSLab%
