@@ -12,15 +12,13 @@ The objective of this project is to build an end-to-end machine learning classif
 - Number of features: 30 numeric features
 - Target column: `target`, where 0 = malignant and 1 = benign
 
-This dataset satisfies the assignment requirement of minimum 12 features and minimum 500 instances.
+
 
 ## GitHub Repository Link
-Replace this line after uploading the project folder to GitHub:
 
 `https://github.com/UmaAlebale/ML_Assignement2`
 
 ## Live Streamlit App Link
-Replace this line after deploying the repository on Streamlit Community Cloud:
 
 `https://mlassignement2.streamlit.app/`
 
@@ -88,22 +86,5 @@ project-folder/
     |-- support_vector_machine.joblib
 ```
 
-## How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Deployment Steps
-1. Create a GitHub repository.
-2. Upload all files from this project folder.
-3. Go to Streamlit Community Cloud.
-4. Click New App.
-5. Select the GitHub repository and branch.
-6. Select `app.py` as the main file.
-7. Click Deploy.
-8. Copy the live app link and paste it in the PDF submission.
-
 ## BITS Virtual Lab Screenshot
-Add one screenshot captured while running the assignment on BITS Virtual Lab before final submission.
+<img width="1912" height="712" alt="BITSLab Snap" src="https://github.com/user-attachments/assets/d022e136-0ad3-47ec-80f0-c2892bc9acc0" />
