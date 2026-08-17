@@ -87,5 +87,4 @@ project-folder/
 ```
 
 ## BITS Virtual Lab Execution Screenshot
-
-![BITS Lab Snapshot](Images/BITSLab%
+Images/BITSLabSnap.png
