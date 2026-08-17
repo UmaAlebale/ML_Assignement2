@@ -88,3 +88,5 @@ project-folder/
 
 ## BITS Virtual Lab Screenshot
 
+![BITSLabsnap.png
+![BITSLabsnap](images/b
