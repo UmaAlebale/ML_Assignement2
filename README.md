@@ -87,4 +87,4 @@ project-folder/
 ```
 
 ## BITS Virtual Lab Screenshot
-<img width="1912" height="712" alt="BITSLab Snap" src="https://github.com/user-attachments/assets/d022e136-0ad3-47ec-80f0-c2892bc9acc0" />
+
